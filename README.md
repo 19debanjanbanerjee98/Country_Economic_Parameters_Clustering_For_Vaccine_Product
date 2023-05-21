@@ -8,7 +8,9 @@ Assuming ABC Pharmaceutical, an international Drug Manufacturer, committed to pu
   
 # Solution approach:
 This solution uses 4 Clustering techniques: KMeans, KMeans with Mahalanobis distance, Hierarchial and DBSCAN clustering and compares the performances of each.
-We are also attaching the prelim EDA notebook(Python), utilized to analyze the different data sources available open source. The datasets used, during the exercise are resourced from Kaggle and the entire solution archetecture has been made open-source in Python programming language
+We are also attaching the prelim EDA notebook(Python), utilized to analyze the different data sources available open source. The datasets used, during the exercise are resourced from Kaggle and the entire solution archetecture has been made open-source in Python programming language.
+
+The notebooks contain visulizations using Plotly, which may not show up while reopening the notebooks, in a new user's workspace. Please refer to the HTML version of the notebooks for validation purposes.
 
 
 
